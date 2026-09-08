@@ -6,7 +6,7 @@ Dark Souls hack with god mode, souls multiplier, bonfire teleport, item drop, an
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular mods like **Dark Souls Mod Engine** and **DS Save Editor**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Dark Souls.
 4. Run the hack **as Administrator**.
